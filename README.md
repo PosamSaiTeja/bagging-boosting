@@ -1,2 +1,2 @@
-# bagging-boosting
+# bagging & boosting
 notes on bagging and boosting
